@@ -1,0 +1,5 @@
+{
+  "name": "Mobi2Tech Studio",
+  "description": "An AI-powered application to professionally composite product photos into new scenes, edit images with text prompts, and generate new visuals from scratch. Features include background removal, realistic lighting and shadow integration, and high-resolution exports.",
+  "requestFramePermissions": []
+}
